@@ -1,4 +1,4 @@
-### Hi there 👋 This is Rakesh Baddi (He/Him)
+<h1> Hi there 👋 This is Rakesh Baddi (He/Him) </h1>
 
 <h3> 👨‍💻 Scroll down & know more about me! </h3>
 
