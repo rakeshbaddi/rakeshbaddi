@@ -2,12 +2,13 @@
 
 <h3> 👨‍💻 Scroll down & know more about me! </h3>
 
-- 🎓 Current Graduate 'Information Systems' student at Northeastern University, Boston
-- 🌱 Aspiring Full Stack Developer
-- 🧰 Worked as a Front End Developer at Tata Consultancy Services, India
+- 🌱 Currently working as a Full Stack Engineer at Fidelity Investments
+- 🎓 Graduated with a 'Masters in Information Systems' degree from Northeastern University, Boston
+- 🧰 Former Software Engineer Intern at Thermo Fisher Scientific, Boston
+- 🧰 Worked as a Full Stack Engineer at Tata Consultancy Services, India and Trado, India
 - 🎯 Currently exploring Amazon Web Services and Big Data
 - 🎭 Interested in Software Development and LeetCode
-- 📫 How to reach me: baddi.r@northeastern.edu
+- 📫 How to reach me: rakesh.baddi28@gmail.com
 
 <h3> 🛠 Technology Stack </h3>
 
@@ -39,5 +40,5 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/rakeshbaddi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rakesh%20Baddi-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:baddi.r@northeastern.edu"><img alt="Email" src="https://img.shields.io/badge/Email-baddi.r@northeastern.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:rakesh.baddi28@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-baddi.r@northeastern.edu-blue?style=flat-square&logo=gmail"></a>
 <a href="https://rakeshbaddi.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/-MyPortfolio-61DAFB?logo=portfolio&logoColor=white&logoWidth=30"></a>
