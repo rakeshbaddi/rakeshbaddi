@@ -40,5 +40,5 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/rakeshbaddi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rakesh%20Baddi-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:rakesh.baddi28@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-baddi.r@northeastern.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:rakesh.baddi28@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rakesh.baddi28@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <a href="https://rakeshbaddi.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/-MyPortfolio-61DAFB?logo=portfolio&logoColor=white&logoWidth=30"></a>
